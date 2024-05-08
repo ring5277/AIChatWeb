@@ -40,7 +40,7 @@ const jp: PartialLocaleType = {
     Send: "送信",
     Config: {
       Reset: "リセット",
-      SaveAs: "另存为面具",
+      SaveAs: "另存为顾问",
     },
   },
   Export: {
